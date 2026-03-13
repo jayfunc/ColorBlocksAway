@@ -11,4 +11,4 @@ A relaxing yet strategic match puzzle game featuring minimalist Bauhaus aestheti
 
 ## Download
 
-![](promotion/GetItOnGooglePlay_Badge_Web_color_English.png)
+[![](promotion/GetItOnGooglePlay_Badge_Web_color_English.png)](https://play.google.com/store/apps/details?id=com.dart.colorblocksaway)

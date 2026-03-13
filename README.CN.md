@@ -11,4 +11,4 @@
 
 ## 下载
 
-![](promotion/GetItOnGooglePlay_Badge_Web_color_Chinese-China.png)
+[![](promotion/GetItOnGooglePlay_Badge_Web_color_Chinese-China.png)](https://play.google.com/store/apps/details?id=com.dart.colorblocksaway)

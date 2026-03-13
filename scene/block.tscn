@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://blprpmmggy1pw"]
+
+[ext_resource type="Script" uid="uid://da00vqdbbkjx" path="res://script/block.gd" id="1_im0tn"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_im0tn"]
+bg_color = Color(1, 1, 1, 1)
+corner_radius_top_left = 8
+corner_radius_top_right = 8
+corner_radius_bottom_right = 8
+corner_radius_bottom_left = 8
+
+[node name="Button" type="Button" unique_id=325697844]
+custom_minimum_size = Vector2(64, 64)
+theme_override_styles/normal = SubResource("StyleBoxFlat_im0tn")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_im0tn")
+theme_override_styles/hover = SubResource("StyleBoxFlat_im0tn")
+theme_override_styles/focus = SubResource("StyleBoxFlat_im0tn")
+script = ExtResource("1_im0tn")
